@@ -1,0 +1,15 @@
+/Users/mind/Desktop/EddyPVM02/test1/bin/Debug/net8.0/EddyPVM02
+/Users/mind/Desktop/EddyPVM02/test1/bin/Debug/net8.0/EddyPVM02.deps.json
+/Users/mind/Desktop/EddyPVM02/test1/bin/Debug/net8.0/EddyPVM02.runtimeconfig.json
+/Users/mind/Desktop/EddyPVM02/test1/bin/Debug/net8.0/EddyPVM02.dll
+/Users/mind/Desktop/EddyPVM02/test1/bin/Debug/net8.0/EddyPVM02.pdb
+/Users/mind/Desktop/EddyPVM02/test1/obj/Debug/net8.0/EddyPVM02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mind/Desktop/EddyPVM02/test1/obj/Debug/net8.0/EddyPVM02.AssemblyInfoInputs.cache
+/Users/mind/Desktop/EddyPVM02/test1/obj/Debug/net8.0/EddyPVM02.AssemblyInfo.cs
+/Users/mind/Desktop/EddyPVM02/test1/obj/Debug/net8.0/EddyPVM02.csproj.CoreCompileInputs.cache
+/Users/mind/Desktop/EddyPVM02/test1/obj/Debug/net8.0/EddyPVM02.sourcelink.json
+/Users/mind/Desktop/EddyPVM02/test1/obj/Debug/net8.0/EddyPVM02.dll
+/Users/mind/Desktop/EddyPVM02/test1/obj/Debug/net8.0/refint/EddyPVM02.dll
+/Users/mind/Desktop/EddyPVM02/test1/obj/Debug/net8.0/EddyPVM02.pdb
+/Users/mind/Desktop/EddyPVM02/test1/obj/Debug/net8.0/EddyPVM02.genruntimeconfig.cache
+/Users/mind/Desktop/EddyPVM02/test1/obj/Debug/net8.0/ref/EddyPVM02.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mind/Desktop/EddyPVM02/EddyPVM02.csproj",
+      "projectUniqueName": "/Users/mind/Desktop/EddyPVM02/test1/EddyPVM02.csproj",
       "projectName": "EddyPVM02",
-      "projectPath": "/Users/mind/Desktop/EddyPVM02/EddyPVM02.csproj",
+      "projectPath": "/Users/mind/Desktop/EddyPVM02/test1/EddyPVM02.csproj",
       "packagesPath": "/Users/mind/.nuget/packages/",
-      "outputPath": "/Users/mind/Desktop/EddyPVM02/obj/",
+      "outputPath": "/Users/mind/Desktop/EddyPVM02/test1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mind/.nuget/NuGet/NuGet.Config"

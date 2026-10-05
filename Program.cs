@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("yo world");
+
+int answer = 42;
+
+Console.WriteLine($" the answer is {answer}" );
+
+
